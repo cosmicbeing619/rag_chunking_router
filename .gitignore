@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+output/
+input_docs/*.pdf
+.DS_Store
