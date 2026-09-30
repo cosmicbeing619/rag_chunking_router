@@ -67,7 +67,7 @@ All thresholds live in `strategies.py` under `CONFIG`.
 
 ```
 app.py               Streamlit UI (upload a PDF, view plan, stats, reasoning)
-main.py              Decision logic, plan building, CLI batch runner
+main.py              Decision logic, plan building
 pdf_parser.py        Page profiling, image filtering, labeling, segmentation
 laya_classifier.py   Option pruning, Laya call, input-keyed cache
 strategies.py        Strategy registry and every threshold
