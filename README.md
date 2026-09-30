@@ -79,7 +79,7 @@ output/              <name>_strategy.json results and .laya_cache.json
 ## Setup
 
 ```bash
-git clone https://github.com/cosmicbeing619/<repo-name>.git
+git clone https://github.com/cosmicbeing619/rag_chunking_router.git
 cd <repo-name>
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
