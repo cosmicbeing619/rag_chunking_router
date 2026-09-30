@@ -80,7 +80,7 @@ output/              <name>_strategy.json results and .laya_cache.json
 
 ```bash
 git clone https://github.com/cosmicbeing619/rag_chunking_router.git
-cd <repo-name>
+cd rag_chunking_router
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
