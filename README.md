@@ -86,9 +86,9 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Laya setup: 
+# Laya setup: 
 
-# Installation
+Installation
 
 Requires **Python 3.10+**. 
 
