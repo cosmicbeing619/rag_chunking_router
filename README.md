@@ -152,9 +152,3 @@ Every segment records its layout label, chosen strategy, who decided it (pruning
 - **Repetition-based logo detection is weak on very short PDFs** (4 pages or fewer).
 - **PDF only.** Other formats must be converted first.
 
-## Roadmap
-
-1. Build the chunker behind each strategy.
-2. Label a corpus of PDFs and measure routing accuracy.
-3. Evaluate retrieval (embedding model, ChromaDB, question set) for routed versus single-strategy chunking.
-4. Add vector-chart detection, text-quality checks for searchable scans, and region-level labeling.
