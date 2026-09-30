@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 Laya setup: 
 
-## Installation
+# Installation
 
 Requires **Python 3.10+**. 
 
@@ -100,7 +100,7 @@ pip install laya
 uv pip install laya
 ```
 
-**Web app**
+## **Web app**
 
 ```bash
 streamlit run app.py
